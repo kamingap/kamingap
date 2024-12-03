@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamingap
+- 👋 Hi, I’m Kaminga  Philimon
 - 👀 I’m interested in AI, Data Science, Machine learning
 - 🌱 I’m currently learning Nueral Networks
 - 💞️ I’m looking to collaborate on AI projects
